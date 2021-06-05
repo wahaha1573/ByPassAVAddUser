@@ -18,13 +18,13 @@ Usage of ByPassAVAddUserCli.exe:
         用户名
 ```
 
-![](PictureFile\360.jpg)
+![](./PictureFile/360.jpg)
 
-![](PictureFile\huorong.jpg)
+![](./PictureFile/huorong.jpg)
 
-![](PictureFile\ByPass360.jpg)
+![](./PictureFile/ByPass360.jpg)
 
-![](\PictureFile\ByPassHuoRong.jpg)
+![](./PictureFile/ByPassHuoRong.jpg)
 
 ## 参考：
 
